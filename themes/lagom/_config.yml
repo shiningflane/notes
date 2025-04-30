@@ -9,10 +9,10 @@ page_title: Hexo Theme Lagom
 # 通过key引用链接进行跳转，目前支持中英文
 menu:
   home: /
-  archives: /error/
-  categories: /error/
-  tags: /error/
-  about: /error/
+  archives: /archives/
+  categories: /categories/
+  tags: /tags/
+  about: /about/
 
 # 配置社交平台链接 SOCIAL LINKS
 social_links:
