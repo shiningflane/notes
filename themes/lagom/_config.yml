@@ -17,7 +17,7 @@ menu:
 # 配置社交平台链接 SOCIAL LINKS
 social_links:
   github:
-    link: https://shiningflane.github.io/
+    link: https://shiningflane.github.io
     icon: '&#xe6b7;'
   mail:
     link: ""
