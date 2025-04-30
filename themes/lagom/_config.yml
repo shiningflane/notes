@@ -17,13 +17,13 @@ menu:
 # 配置社交平台链接 SOCIAL LINKS
 social_links:
   github:
-    link: https://github.com/jylzs369
+    link: https://shiningflane.github.io/
     icon: '&#xe6b7;'
   mail:
-    link: mailto:jylzs369@163.com
+    link: ""
     icon: '&#xe61a;'
   rss:
-    link: /atom.xml
+    link: ""
     icon: '&#xe640;'
 
 # 配置主页模板 INDEX TEMPLATE
