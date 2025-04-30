@@ -33,7 +33,7 @@ social_links:
 #   - sort_updated: 是否按更新时间排序/否则通过创建时间排序
 index:
   show_all_posts: false
-  post_count: 0
+  post_count: 1
   sort_updated: false
 
 # 配置归档模板 ARCHIVE TEMPLATE
