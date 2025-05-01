@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://shiningflane.github.io
-root: /
+url: https://shiningflane.github.io/notes
+root: /notes/
 permalink: /p/:abbrlink/
 permalink_defaults:
 pretty_urls:
