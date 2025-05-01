@@ -903,7 +903,7 @@ archive:
 # Category Page
 #---------------------------
 category:
-  enable: false
+  enable: true
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
@@ -932,7 +932,7 @@ category:
 # Tag Page
 #---------------------------
 tag:
-  enable: false
+  enable: true
   banner_img: /img/default.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
