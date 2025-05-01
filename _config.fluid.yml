@@ -645,11 +645,11 @@ post:
 
     # CreativeCommons license
     # Options: BY | BY-SA | BY-ND | BY-NC | BY-NC-SA | BY-NC-ND
-    license: 'BY'
+    license: false
 
     # 显示作者
     author:
-      enable: true
+      enable: false
 
     # 显示发布日期
     # Show post date
