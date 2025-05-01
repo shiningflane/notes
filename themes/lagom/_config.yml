@@ -33,7 +33,7 @@ social_links:
 #   - sort_updated: 是否按更新时间排序/否则通过创建时间排序
 index:
   show_all_posts: false
-  post_count: 1
+  post_count: 3
   sort_updated: false
 
 # 配置归档模板 ARCHIVE TEMPLATE
@@ -51,7 +51,7 @@ post:
 # 配置版权 COPYRIGHT
 # end_year未设置则默认设置当前年份
 copyright:
-  start_year: 2020
+  start_year: 2025
   end_year:
 
 ##################################################
